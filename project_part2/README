@@ -1,0 +1,4 @@
+
+First part of the project is to develop a Web server in C with the fundamental knowledge of socket programming. And it can dump request message into console and also output the request header in the console as well.Apart from listening and accept request and my project can also fetch the desired file to the client(browser) and show it perfectly.  
+
+Second part of the project is to implement the reliable data transfer over UDP, which include the timeout and retransmitting mechanism, ack and sequence number. Also this project can simulate the loss and corruption situation.
